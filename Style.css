@@ -30,7 +30,7 @@ header
 }
 
 .navbar li a:hover {
-  background-color: red;
-  color: red;
+  background-color: black;
+  color: black;
 }
 
